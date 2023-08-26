@@ -1,0 +1,4 @@
+05-13-2022 14:37:27 - root - INFO - ✅✅✅✅ Data were succesfully loaded.
+05-13-2022 14:37:27 - root - INFO - Loading time: 0.02s
+05-13-2022 14:37:27 - root - INFO - Size: 10127 rows X 22 columns
+05-13-2022 14:37:27 - root - INFO - File loaded: /Users/christoszacharopoulos/projects/customer_churn_prediction/data/bank_data.csv

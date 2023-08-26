@@ -1,0 +1,9 @@
+07-16-2022 14:22:23 - root - INFO - ✅✅✅✅ Data was successfully loaded.
+07-16-2022 14:22:23 - root - INFO - Loading time: 0.02s
+07-16-2022 14:22:23 - root - INFO - Size: 10127 rows X 22 columns
+07-16-2022 14:22:23 - root - INFO - File loaded: /Users/christoszacharopoulos/projects/customer_churn_prediction/data/bank_data.csv
+07-16-2022 17:12:04 - root - INFO - None of the features has missing values.
+07-16-2022 17:12:06 - root - INFO - Categorical features encoded                   with frequency encoding: ['Gender', 'Education_Level', 'Marital_Status', 'Income_Category', 'Card_Category']
+07-16-2022 17:12:06 - root - INFO - Applied simple train-test split with test size 30%
+07-16-2022 17:12:46 - root - INFO - Categorical features encoded                   with frequency encoding: ['Gender', 'Education_Level', 'Marital_Status', 'Income_Category', 'Card_Category']
+07-16-2022 17:12:46 - root - INFO - Applied simple train-test split with test size 30%
